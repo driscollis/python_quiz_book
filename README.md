@@ -6,6 +6,20 @@
 
 This repository contains the quiz code for the book.
 
+## What's Covered
+
+You will learn about the following topics:
+
+- f-strings
+- generators
+- assignment expressions
+- unpacking gneralizations
+- sets
+- Python built-in functions
+- ternary expression
+- shadowing
+- and much, much more!
+
 ## Audience
 
 This book is for beginners and intermediate level Python developers who want to grow their knowledge about the Python programming language through quizzes.
