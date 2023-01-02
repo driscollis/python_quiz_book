@@ -1,4 +1,4 @@
-# 06_truthy_falsey
+# 06_truthy_falsey.py
 
 print(sum([
     all([[]]),

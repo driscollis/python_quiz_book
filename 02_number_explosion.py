@@ -1,4 +1,4 @@
-# number_explosion.py
+# 02_number_explosion.py
 
 numbers = range(3)
 output = {*numbers}
