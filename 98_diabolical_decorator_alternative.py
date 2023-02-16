@@ -2,13 +2,13 @@
 
 class dog:
     ...
-    
-    
-def set_attr(func):
+
+
+def enhance_dog(func):
     setattr(dog, "on_leash", func)
-    
+
+@enhance_dog
 def walk():
     print("bark bark!")
-    
-walk = set_attr(walk)    
+
 print(dog.on_leash())
