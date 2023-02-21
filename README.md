@@ -30,4 +30,4 @@ This book is for beginners and intermediate level Python developers who want to 
 
 ## About the Author
 
-Michael Driscoll has been an application developer using Python for over a decade. He is the author of the popular Python blog, [The Mouse Vs. the Python](https://www.blog.pythonlibrary.org/) as well as several other Python books including which you an find [here](https://driscollis.gumroad.com/).
+Michael Driscoll has been an application developer using Python for over a decade. He is the author of the popular Python blog, [The Mouse Vs. the Python](https://www.blog.pythonlibrary.org/) as well as several other Python books including which you an find [here](https://driscollis.gumroad.com/). You can follow Mike on Twitter [@driscollis](https://twitter.com/driscollis).
